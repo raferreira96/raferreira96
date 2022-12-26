@@ -9,7 +9,7 @@ Enthusiastic about software development, information technology and games. Focus
 <h3 align="center">Contacts 📮</h3>
 
 <div style="display: inline_block" align="center">
-  <a href="mailto:rafaelferreirax3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="mailto:monteiro.rferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <a href="https://wa.me/5592981272523"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
   <a href="https://linkedin.com/in/raferreira96"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </div>
@@ -96,7 +96,7 @@ Enthusiastic about software development, information technology and games. Focus
 <img align="center" alt="Gitlab CI/CD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-<img align="center" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg"><br>
+<img align="center" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg">
 <img align="center" alt="NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 </div>
 </td>
