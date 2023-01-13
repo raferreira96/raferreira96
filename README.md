@@ -17,7 +17,9 @@ Enthusiastic about software development, information technology and games. Focus
 <h3 align="center">Stats Resume 📈</h3>
 
 <div align="center">
-
+  <a href="https://github.com/raferreira96">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raferreira96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raferreira96&layout=compact&langs_count=8&theme=dark&count_private=true"/>
 </div>
 
 <h2 align="center">Skills 💪</h2>
