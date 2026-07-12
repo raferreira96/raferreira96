@@ -20,10 +20,10 @@
   ### 📊 Overview
 
   <a href="https://github.com/raferreira96">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raferreira96&show_icons=true&theme=transparent" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=raferreira96&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/raferreira96?tab=repositories">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raferreira96&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=raferreira96&theme=transparent&layout=compact&langs_count=8&card_width=320" />
   </a>
 
 </div>
